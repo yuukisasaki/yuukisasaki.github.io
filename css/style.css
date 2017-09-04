@@ -11,17 +11,17 @@ body {
   font-family: "游ゴシック", YuGothic, "メイリオ", Verdana, "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
   line-height: 1.6;
   letter-spacing: 0.1em;
-  background-color: #fdfcf6; }
+  background-color: #ffffee; }
 
 a {
-  color: #14c0c9;
+  color: #fb9f89;
   text-decoration: none; }
   a:visited {
-    color: #0f949b; }
+    color: #f97758; }
   a:hover {
-    color: #0f949b; }
+    color: #f97758; }
   a:active {
-    color: #16d6e0; }
+    color: #fcb3a2; }
 
 /* Align
 ------------------------------------------------------------*/
@@ -79,7 +79,7 @@ header .site-title {
   header .site-title span {
     display: block;
     font-size: 4.2rem;
-    color: #14c0c9; }
+    color: #fb9f89; }
 header .profile-icon {
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
@@ -107,7 +107,7 @@ section {
     font-size: 3.2rem; }
 
 #skills {
-  background-color: #bea300; }
+  background-color: #a7d9c6; }
   #skills .container {
     display: -webkit-flex;
     display: flex;
@@ -115,14 +115,14 @@ section {
     -webkit-flex-direction: column;
     flex-direction: column; }
   #skills h2 {
-    color: #fdfcf6;
+    color: #ffffee;
     margin-bottom: 60px; }
   #skills .skill-box {
     -webkit-flex: 1;
     flex: 1;
     margin: 10px 0;
     padding: 20px;
-    background-color: #fdfcf6;
+    background-color: #ffffee;
     -moz-border-radius: 4px;
     -webkit-border-radius: 4px;
     border-radius: 4px;
@@ -134,7 +134,7 @@ section {
     height: 80px;
     margin-bottom: 5px;
     padding-top: 15px;
-    background-color: #14c0c9;
+    background-color: #fb9f89;
     font-size: 4.5rem;
     color: #FFF;
     text-align: center;
@@ -145,7 +145,7 @@ section {
     -webkit-border-radius: 50%;
     border-radius: 50%; }
   #skills h3 {
-    color: #14c0c9;
+    color: #fb9f89;
     margin-bottom: 10px;
     font-size: 2.4rem;
     font-weight: bold; }
@@ -201,7 +201,7 @@ section {
           display: block;
           color: #FFF;
           font-weight: bold;
-          background-color: #14c0c9;
+          background-color: #fb9f89;
           -moz-border-radius: 4px;
           -webkit-border-radius: 4px;
           border-radius: 4px;
@@ -220,7 +220,7 @@ section {
     #works .works-box a .works-box-inner {
       display: none; }
       #works .works-box a .works-box-inner .button-readmore:hover {
-        background-color: #0f949b; }
+        background-color: #f97758; }
     #works .works-box a:hover .works-box-inner {
       display: block;
       width: 100%; } }
@@ -238,7 +238,7 @@ section {
     vertical-align: top; }
     #contact ul li:last-child {
       margin-right: 0; }
-  #contact ul .github, #contact ul .skype {
+  #contact ul .github, #contact ul .twitter {
     font-size: 3.2rem; }
   #contact ul .github i {
     margin-left: 2px; }
@@ -247,7 +247,7 @@ section {
     width: 50px;
     height: 50px;
     color: #FFF;
-    background-color: #14c0c9;
+    background-color: #fb9f89;
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%; }
@@ -255,13 +255,13 @@ section {
 /* Footer
 ------------------------------------------------------------*/
 footer {
-  background-color: #bea300;
+  background-color: #a7d9c6;
   padding: 10px 0;
   text-align: center;
   color: #FFF; }
 
 @media (min-width: 1025px) {
   #contact ul a:hover {
-    background-color: #0f949b; } }
+    background-color: #f97758; } }
 
 /*# sourceMappingURL=style.css.map */
